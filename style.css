@@ -1,0 +1,20 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+
+}
+
+.note{
+    font-size: 17px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+.Change{
+    font-size: 25px;
+}
+
